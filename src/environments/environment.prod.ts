@@ -1,12 +1,13 @@
 export const environment = {
   production: true,
   firebaseConfig : {
-    apiKey: "AIzaSyB5Je7xi2GSE4OE9QmaPo6KKVSexnJrXVs",
-    authDomain: "fir-auth-ce833.firebaseapp.com",
-    projectId: "fir-auth-ce833",
-    storageBucket: "fir-auth-ce833.appspot.com",
-    messagingSenderId: "324939252749",
-    appId: "1:324939252749:web:c01f199ed522bd15f2c144",
-    measurementId: "G-TKV1BTG9N6"
+    apiKey: "AIzaSyBhn9o5Xl71IpGzHjMrvY_QLNYq4f8MJNc",
+  authDomain: "gps-maps-1df5f.firebaseapp.com",
+  databaseURL: "https://gps-maps-1df5f-default-rtdb.firebaseio.com",
+  projectId: "gps-maps-1df5f",
+  storageBucket: "gps-maps-1df5f.appspot.com",
+  messagingSenderId: "57857468662",
+  appId: "1:57857468662:web:03286fce137c86820264d7",
+  measurementId: "G-0D66DNW95Y"
   }
 };
